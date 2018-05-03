@@ -34,22 +34,23 @@ about that. Any contribution in any shape or form will be treated equally.
 There are already several media provider modules that extend functionality of
 Media entity:
 
-- [Image](https://drupal.org/project/media_entity_image)
-- [Audio](https://drupal.org/project/media_entity_audio)
-- [Slideshow](https://drupal.org/project/media_entity_slideshow)
-- [Video embed field](https://drupal.org/project/video_embed_field)
-- [Twitter](https://drupal.org/project/media_entity_twitter)
-- [Instagram](https://drupal.org/project/media_entity_instagram)
-- [Document](https://drupal.org/project/media_entity_document)
-- [Slideshare](https://drupal.org/project/media_entity_slideshare)
-- [Video (local)](https://drupal.org/project/media_entity_video)
-- [Tumblr](https://drupal.org/project/media_entity_tumblr)
-- [Facebook](https://drupal.org/project/media_entity_facebook)
-- [Audio embed field (sandbox)](https://drupal.org/sandbox/vilepickle/2784301)
-- [Flickr](https://www.drupal.org/project/media_entity_flickr)
-- [Imgur](https://www.drupal.org/project/media_entity_imgur)
-- [GoogleDocs](https://www.drupal.org/project/media_entity_googledocs)
 - [500px](https://www.drupal.org/project/media_entity_d500px)
+- [Audio embed field (sandbox)](https://drupal.org/sandbox/vilepickle/2784301)
+- [Audio](https://drupal.org/project/media_entity_audio)
+- [Document](https://drupal.org/project/media_entity_document)
+- [Facebook](https://drupal.org/project/media_entity_facebook)
+- [Flickr](https://www.drupal.org/project/media_entity_flickr)
+- [GoogleDocs](https://www.drupal.org/project/media_entity_googledocs)
+- [Image](https://drupal.org/project/media_entity_image)
+- [Imgur](https://www.drupal.org/project/media_entity_imgur)
+- [Instagram](https://drupal.org/project/media_entity_instagram)
+- [Pinterest](https://www.drupal.org/project/media_entity_pinterest)
+- [Slideshare](https://drupal.org/project/media_entity_slideshare)
+- [Slideshow](https://drupal.org/project/media_entity_slideshow)
+- [Tumblr](https://drupal.org/project/media_entity_tumblr)
+- [Twitter](https://drupal.org/project/media_entity_twitter)
+- [Video (local)](https://drupal.org/project/media_entity_video)
+- [Video embed field](https://drupal.org/project/video_embed_field)
 
 ## Other modules that integrate with media entity
 
